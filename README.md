@@ -19,6 +19,7 @@ codes coming soon
 
 ## References
 [1] X. Zhou, J. Zhang, C.-K. Wen, J. Zhang, and S. Jin, “Model-driven deep learning-based signal detector for CP-free MIMO-OFDM systems,” in Proc. IEEE Int. Conf. on Commun. (ICC) Workshop, Jun. 2021, pp. 1–6.
+
 [2] H. He, C. Wen, S. Jin, and G. Y. Li, “Model-driven deep learning for MIMO detection,” IEEE Trans. Signal Process., vol. 68, pp. 1702–1715, Feb. 2020.
 
 ## Contact
