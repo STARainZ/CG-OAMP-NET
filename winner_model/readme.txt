@@ -1,0 +1,1 @@
+The WINNER-II channel datasets (channel_train.npy and channel_test.npy) should be downloaded at https://drive.google.com/drive/folders/1EAeylbdQUQWOUVrinGhK24zBc_JeRzoN
