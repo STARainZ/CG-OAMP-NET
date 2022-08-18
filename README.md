@@ -27,7 +27,7 @@ For more details, please refer to the readme.txt and the source files in this re
 We would like to thank Prof. Lei Liu from Japan Advanced Institute of Science and Technology for generally sharing the source code of Memory AMP [4] (a baseline algorithm in our comparison [1]) and discussing the details of the algorithm. The National Sun Yat-sen University Antenna Laboratory led by Prof. K. L. Wong is also highly appreciated for designing the antennas at the prototying platform used in our work [1].
 
 ## References
-[1] X. Zhou, J. Zhang, C.-W. Syu, C.-K. Wen, J. Zhang, and S. Jin, “Model-driven deep learning-based MIMO-OFDM detector: Design, Simulation, and Experimental Results,” to be published.
+[1] X. Zhou, J. Zhang, C.-W. Syu, C.-K. Wen, J. Zhang, and S. Jin, “Model-driven deep learning-based MIMO-OFDM detector: Design, Simulation, and Experimental Results,”  IEEE Trans. Commun., vol. 70, no. 8, pp. 5193-5207, Aug. 2022.
 
 [2] X. Zhou, J. Zhang, C.-K. Wen, J. Zhang, and S. Jin, “Model-driven deep learning-based signal detector for CP-free MIMO-OFDM systems,” in Proc. IEEE Int. Conf. on Commun. (ICC) Workshop, Jun. 2021, pp. 1–6.
 
